@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class day1{
+public class number_guessing{
     public static void main(String[] args) {
         int compnum = (int) (Math.random() * 100 + 1);
         int user_output = 0;
